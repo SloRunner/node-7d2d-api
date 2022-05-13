@@ -1,8 +1,8 @@
 {
   "name": "7d2d-api",
-  "version": "1.0.3",
-  "description": "7 days to die api",
-  "main": "index.js",
+  "version": "1.0.4",
+  "description": "7 days to die sockets api",
+  "main": "src/index.js",
   "scripts": {
     "test": "node tests/connection.js"
   },
